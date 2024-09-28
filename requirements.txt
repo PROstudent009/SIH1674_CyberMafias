@@ -1,0 +1,6 @@
+telethon
+flask
+ayncio
+emoji
+threading
+sqlite3
