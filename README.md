@@ -30,7 +30,8 @@ System Flow:
 
 1. Open Visual Studio Code with latest version.
 2. Create an app.py file and paste the above code.
-3. Install and import all the necessary files listed in the requirements.txt file.
-4. The user will be able to access the chats of a particular group in Telegram.
-5. Go to the given web address to access the flagged messages.
-6. Refresh the page in case of new chats to be discovered.
+3. Create index.html file and paste the code in it.
+4. Install and import all the necessary files listed in the requirements.txt file.
+5. The user will be able to access the chats of a particular group in Telegram.
+6. Go to the given web address to access the flagged messages.
+7. Refresh the page in case of new chats to be discovered.
