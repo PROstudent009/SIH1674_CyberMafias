@@ -6,9 +6,9 @@ from threading import Thread
 import sqlite3
 
 # Telegram API credentials
-api_id = '29634694'
-api_hash = '07f72605cb4400bd084cadb0ea661b43'
-phone = '918446439314'
+api_id = '#your_api_id'
+api_hash = '#your_api_hash'
+phone = '#your_number'
 
 # Initialize the Telegram client
 client = TelegramClient('session_name', api_id, api_hash)
